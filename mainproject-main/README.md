@@ -1,5 +1,6 @@
-# KrishiDost — Modular Structure
+# KrishiDost — Modular Structure 
 
+url:https://agrivvit2026.netlify.app/
 Smart Farming Platform for Andhra Pradesh & Telangana.
 AI-powered crop disease detection, mandi price intelligence,
 crop recommendation, govt schemes, insurance claim generation,
